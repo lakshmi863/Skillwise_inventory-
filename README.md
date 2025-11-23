@@ -2,8 +2,6 @@
 
 A robust full-stack application designed to manage product stock, track inventory history, and visualize data. Built with **React (Frontend)** and **Node.js/Express (Backend)** using **SQLite** as the database.
 
-![Project Banner](https://via.placeholder.com/1200x600?text=Inventory+Dashboard+Preview) 
-*(Tip: Replace this link with a screenshot of your Dashboard!)*
 
 ##  Live Demo
 
