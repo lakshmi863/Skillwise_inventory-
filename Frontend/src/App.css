@@ -260,7 +260,7 @@ button { cursor: pointer; transition: 0.2s; }
 
 .pagination-container { 
   display: flex; 
-  justify-content: space-between; 
+  justify-content: center; 
   align-items: center; 
   margin-top: 20px; 
   background: white; 
@@ -269,7 +269,7 @@ button { cursor: pointer; transition: 0.2s; }
   box-shadow: 0 2px 4px rgba(0,0,0,0.05); 
 }
 
-/* <<< PASTE THE NEW CODE HERE >>> */
+
 .pagination-buttons {
   display: flex;
   flex-direction: row;
@@ -282,5 +282,39 @@ button { cursor: pointer; transition: 0.2s; }
   justify-content: center; 
   width: 40px; 
   height: 40px; 
-  /* ... rest of your existing button styles ... */
+ 
+}
+
+.page-input-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+/* Style the little number box */
+.page-input {
+  width: 50px;
+  padding: 6px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.9rem;
+  /* Remove spin buttons on Firefox/Chrome */
+  -moz-appearance: textfield; 
+}
+
+/* Remove default arrows in number input for Webkit browsers */
+.page-input::-webkit-outer-spin-button,
+.page-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.page-input:focus {
+  outline: none;
+  border-color: #4F46E5;
+  background-color: #fefefe;
 }
