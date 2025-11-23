@@ -170,7 +170,8 @@ button { cursor: pointer; transition: 0.2s; }
 .btn-save-primary:hover { opacity: 0.9; }
 
 /* PAGINATION */
-.pagination-container { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; background: white; padding: 10px 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+
+
 .btn-page { display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; border: 1px solid #ddd; background: white; border-radius: 6px; cursor: pointer; color: var(--primary); transition: all 0.2s; }
 .btn-page:hover:not(:disabled) { background: var(--bg); border-color: var(--primary); }
 .btn-page:disabled { color: #ccc; cursor: not-allowed; background: #f9f9f9; }
@@ -255,4 +256,31 @@ button { cursor: pointer; transition: 0.2s; }
   .charts-container {
     grid-template-columns: 1fr; /* Stack vertically on small screens */
   }
+}
+
+.pagination-container { 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  margin-top: 20px; 
+  background: white; 
+  padding: 10px 20px; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05); 
+}
+
+/* <<< PASTE THE NEW CODE HERE >>> */
+.pagination-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.btn-page { 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  width: 40px; 
+  height: 40px; 
+  /* ... rest of your existing button styles ... */
 }
