@@ -7,10 +7,27 @@ A robust full-stack application designed to manage product stock, track inventor
 
 ##  Live Demo
 
-- **Frontend:** [Link to your deployed Frontend](https://inventory-frontend.onrender.com)
-- **Backend API:** [Link to your deployed Backend](https://inventory-backend.onrender.com)
+- **Frontend:** [Link to your deployed Frontend]( https://skillwise-inventory-frontend.onrender.com )
+  
+- **Backend API:** [Link to your deployed Backend]( https://skillwise-inventory.onrender.com )
 
 ---
+Dashboard page
+
+<img width="1912" height="1032" alt="image" src="https://github.com/user-attachments/assets/4689d84d-be28-4d48-b3e6-c3ddd8370f93" />
+
+Inventery page
+<img width="1906" height="917" alt="image" src="https://github.com/user-attachments/assets/58404e0e-bfbd-4fe0-a6fc-19d6805a0b8e" />
+
+Add products
+
+<img width="562" height="627" alt="image" src="https://github.com/user-attachments/assets/0560a79f-4bdf-405d-adc1-21e616c44179" />
+
+Inventory  History 
+
+<img width="1557" height="938" alt="image" src="https://github.com/user-attachments/assets/0e1df57a-260a-44ad-8845-0184e009b505" />
+
+
 
 ##  Key Features
 
@@ -58,6 +75,4 @@ A robust full-stack application designed to manage product stock, track inventor
 - JWT (Authentication)
 - Multer & CSV-Parser (File Handling)
 
----
 
-## 🏗️ Project Structure
