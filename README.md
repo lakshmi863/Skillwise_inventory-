@@ -16,7 +16,8 @@ Dashboard page
 
 <img width="1912" height="1032" alt="image" src="https://github.com/user-attachments/assets/4689d84d-be28-4d48-b3e6-c3ddd8370f93" />
 
-Inventery page
+Inventory page
+
 <img width="1906" height="917" alt="image" src="https://github.com/user-attachments/assets/58404e0e-bfbd-4fe0-a6fc-19d6805a0b8e" />
 
 Add products
