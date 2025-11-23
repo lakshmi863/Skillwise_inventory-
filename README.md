@@ -7,9 +7,9 @@ A robust full-stack application designed to manage product stock, track inventor
 
 ##  Live Demo
 
-- **Frontend:** [Link to your deployed Frontend]( https://skillwise-inventory-frontend.onrender.com )
+- **Frontend:** ( https://skillwise-inventory-frontend.onrender.com )
   
-- **Backend API:** [Link to your deployed Backend]( https://skillwise-inventory.onrender.com )
+- **Backend API:** ( https://skillwise-inventory.onrender.com )
 
 ---
 Dashboard page
