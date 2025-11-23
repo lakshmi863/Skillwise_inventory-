@@ -2,7 +2,6 @@
 
 A robust full-stack application designed to manage product stock, track inventory history, and visualize data. Built with **React (Frontend)** and **Node.js/Express (Backend)** using **SQLite** as the database.
 
-
 ##  Live Demo
 
 - **Frontend:** ( https://skillwise-inventory-frontend.onrender.com )
